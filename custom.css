@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+}
+
+.hexagon {
+    width: 280px;
+    height: 320px;
+    background: #0dcaf0;
+    clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
